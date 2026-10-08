@@ -15,7 +15,7 @@ Interfața este disponibilă în română și engleză și se adaptează la desk
 
 ## Previzualizare
 
-Deschideți `index.html` pentru previzualizarea locală. Capturile reale desktop și mobil vor fi adăugate după ce pagina poate fi capturată într-un browser accesibil.
+Deschideți `index.html` pentru previzualizarea locală. Capturile desktop și mobile vor fi adăugate după validarea vizuală finală.
 
 > Proiectul nu include o interfață sau pagină de administrare.
 
