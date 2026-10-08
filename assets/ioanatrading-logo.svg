@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 96" role="img" aria-labelledby="title">
+  <title id="title">IOANA TRADING — timber exporter in Constanța, Romania</title>
+  <g transform="translate(4 4)">
+    <circle cx="44" cy="44" r="40" fill="#1b382e" stroke="#b97858" stroke-width="2" />
+    <ellipse cx="44" cy="44" rx="28" ry="35" fill="none" stroke="#eee8d8" stroke-width="1.2" opacity=".28" />
+    <path d="M8 44h72M13 31c7 2.7 17.5 4.1 31 4.1S68 33.7 75 31M13 57c7-2.7 17.5-4.1 31-4.1S68 54.3 75 57" fill="none" stroke="#eee8d8" stroke-width="1.2" opacity=".28" />
+    <path d="M44 13 32.5 28.5h6.8L27.8 42h8.4L22 56.7h17.4v14h9.2v-14H66L51.8 42h8.4L48.7 28.5h6.8L44 13Z" fill="#f2efe7" />
+    <path d="M44 61v8" stroke="#b97858" stroke-width="2" stroke-linecap="round" />
+  </g>
+  <text x="104" y="48" fill="#172d25" font-family="Manrope, Arial, sans-serif" font-size="28" font-weight="500" letter-spacing="2.1">IOANA <tspan font-weight="800" letter-spacing="2.8">TRADING</tspan></text>
+  <text x="106" y="70" fill="#686d62" font-family="'DM Mono', Consolas, monospace" font-size="10" letter-spacing="2.1">TIMBER EXPORTER · CONSTANȚA · ROMÂNIA</text>
+</svg>
